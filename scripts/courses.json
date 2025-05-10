@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "title": "Financial Risk Management",
+      "description": "Master the essential principles of identifying, assessing, and mitigating financial risks in modern business environments.",
+      "category": "finance",
+      "duration": "12 Weeks",
+      "image": "https://images.pexels.com/photos/7681091/pexels-photo-7681091.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "id": 2,
+      "title": "Workplace Health & Safety",
+      "description": "Comprehensive training on creating and maintaining safe work environments, hazard identification, and regulatory compliance.",
+      "category": "health",
+      "duration": "8 Weeks",
+      "image": "https://images.pexels.com/photos/8961065/pexels-photo-8961065.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "id": 3,
+      "title": "Environmental Risk Assessment",
+      "description": "Learn to identify, analyze and mitigate environmental hazards while ensuring compliance with international standards.",
+      "category": "environmental",
+      "duration": "10 Weeks",
+      "image": "https://images.pexels.com/photos/5690988/pexels-photo-5690988.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "id": 4,
+      "title": "Investment Banking Fundamentals",
+      "description": "Gain a solid foundation in investment banking principles, valuation methods, and financial modeling.",
+      "category": "finance",
+      "duration": "14 Weeks",
+      "image": "https://images.pexels.com/photos/7567434/pexels-photo-7567434.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "id": 5,
+      "title": "Emergency Response Training",
+      "description": "Learn essential emergency response procedures and crisis management techniques for workplace safety.",
+      "category": "health",
+      "duration": "6 Weeks",
+      "image": "https://images.pexels.com/photos/8961256/pexels-photo-8961256.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "id": 6,
+      "title": "Sustainable Business Practices",
+      "description": "Develop strategies for implementing sustainable business practices and environmental management systems.",
+      "category": "environmental",
+      "duration": "8 Weeks",
+      "image": "https://images.pexels.com/photos/5690991/pexels-photo-5690991.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    }
+  ]
+  
